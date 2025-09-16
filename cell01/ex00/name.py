@@ -1,4 +1,4 @@
-first_name = 'Kunanon'
-last_name = 'Intharaphol'
+first_name = 'wil'
+last_name = '42'
 
 print(first_name,last_name)
