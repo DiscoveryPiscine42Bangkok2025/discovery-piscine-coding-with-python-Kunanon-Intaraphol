@@ -4,10 +4,10 @@ result= num1*num2
 print(f'{num1} x {num2} = {result}')
 
 if result < 0:
-    print('This number is negative.') 
+    print('The result  is negative.') 
 elif result == 0:
-    print('This number is both positive and negative.')
+    print('The result is both positive and negative.')
 else:
-    print('This number is positive.')
+    print('The resultis positive.')
 
     
